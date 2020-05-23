@@ -7,3 +7,6 @@
 /MLNETSeries/ImageClassification/obj
 /.vs
 /MLNETSeries/.vs/MLNETSeries/v16
+/ImageClassification/assets
+/ImageClassification/bin/Debug/netcoreapp5.0
+/ImageClassification/obj
