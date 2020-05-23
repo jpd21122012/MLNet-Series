@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MLNETSeries/ImageClassification/assets
+/MLNETSeries/ImageClassification/bin/Debug/netcoreapp5.0
+/MLNETSeries/ImageClassification/obj
+/.vs
+/MLNETSeries/.vs/MLNETSeries/v16
